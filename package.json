@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@cucumber/cucumber": "^7.0.0"
+  },
+  "peerDependencies": {
+    "@cucumber/cucumber-expressions": "11.0.0"
   }
 }
