@@ -8,10 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@cucumber/cucumber": "^7.0.0"
-  },
-  "peerDependencies": {
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0",
     "@cucumber/cucumber-expressions": "11.0.0"
   }
 }
